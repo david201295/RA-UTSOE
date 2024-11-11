@@ -1,2 +1,2 @@
 # RA-UTSOE
-Repositorio donde se subieran proyectos escolares 
+Repositorio donde se subiran proyectos escolares 
